@@ -1,0 +1,203 @@
+city,population,distance,county
+Addison,15500,16,Dallas
+Aledo,3400,52,Parker
+Allen,98100,26,Collin
+Alma,300,40,Ellis
+Alvarado,4000,39,Johnson
+Alvord,1400,74,Wise
+Anna,11500,45,Collin
+Annetta,1400,55,Parker
+Annetta North,600,56,Parker
+Annetta South,600,55,Parker
+Argyle,3900,41,Denton
+Arlington,388100,21,Tarrant
+Aubrey,3400,49,Denton
+Aurora,1300,50,Wise
+Azle,11700,50,Tarrant
+Balch Springs,25200,15,Dallas
+Bardwell,700,42,Ellis
+Bartonville,1700,33,Denton
+Bedford,49300,23,Tarrant
+Benbrook,22600,43,Tarrant
+Blue Mound,2500,36,Tarrant
+Blue Ridge,900,51,Collin
+Boyd,1300,54,Wise
+Briaroaks,500,48,Johnson
+Bridgeport,6400,70,Wise
+Burleson,43600,46,Tarrant
+Caddo Mills,1500,41,Hunt
+Campbell,700,59,Hunt
+Carrollton,133200,19,Dallas
+Cedar Hill,48500,17,Dallas
+Celeste,800,62,Hunt
+Celina,7700,42,Collin
+Chico,1100,77,Wise
+Cleburne,30000,50,Johnson
+Cockrell Hill,4300,8,Dallas
+Colleyville,25500,27,Tarrant
+Combine,2100,25,"Dallas, Kaufman"
+Commerce,8900,66,Hunt
+Cool,200,76,Parker
+Coppell,41200,22,Coppell
+Copper Canyon,1400,33,Denton
+Corinth,21000,34,Denton
+Corrall City,,42,Denton
+Cottonwood,200,39,Kaufman
+Crandall,3200,24,Kaufman
+Cresson,800,56,"Hood, Johnson, Parker"
+Cross Roads,800,43,Denton
+Crowley,14900,45,Tarrant
+Dallas,1300100,0,Dallas
+Dalworthington Gardens,2400,29,Tarrant
+Decatur,6500,64,Wise
+DeCordova,2800,67,Hood
+Denton,131000,41,Denton
+DeSoto,52500,16,Dallas
+DISH,400,47,Denton
+Double Oak,3100,32,Denton
+Duncanville,39800,13,Dallas
+Edgecliff Village,3000,39,Tarrant
+Ennis,19000,35,Ellis
+Euless,54200,19,Tarrant
+Everman,6400,37,Tarrant
+Fairview,8400,32,Collin
+Farmers Branch,32700,17,Dallas
+Farmersville,3400,44,Collin
+Fate,9800,28,Rockwall
+Ferris,2500,20,Ellis
+Flower Mound,71300,28,Denton
+Forest Hill,12900,35,Tarrant
+Forney,18400,21,Kaufman
+Fort Worth,833300,32,Tarrant
+Frisco,154400,28,Collin
+Garland,236900,18,Dallas
+Garrett,800,32,Ellis
+Glen Rose,2600,76,Somervell
+Glenn Heights,12000,19,Dallas
+Godley,1100,61,Johnson
+Granbury,9400,70,Hood
+Grand Prairie,187800,14,Dallas
+Grandview,1600,48,Johnson
+Grapevine,51400,23,Tarrant
+Grays Prairie,400,39,Kaufman
+Greenville,26500,51,Hunt
+Hackberry,1000,33,Denton
+Haltom City,44200,32,Tarrant
+Haslet,1800,40,"Denton, Tarrant"
+Hawk Cove,500,47,Hunt
+Heath,8200,25,Rockwall
+Hebron,400,23,Denton
+Hickory Creek,4300,31,Denton
+Highland Park,9200,6,Dallas
+Highland Village,16100,30,Denton
+Hudson Oaks,2200,55,Parker
+Hurst,39000,25,Tarrant
+Hutchins,5700,12,Dallas
+Irving,236600,11,Dallas
+Italy,1900,44,Ellis
+Josephine,1100,39,"Collin, Hunt"
+Joshua,6100,51,Johnson
+Justin,3400,42,Denton
+Kaufman,7200,33,Kaufman
+Keene,6200,46,Johnson
+Keller,45800,32,Tarrant
+Kemp,1300,44,Kaufman
+Kennedale,7700,33,Tarrant
+Krugerville,1700,47,Denton
+Lake Bridgeport,400,83,Wise
+Lake Dallas,7900,33,Denton
+Lake Worth,4800,42,Tarrant
+Lakeside,1400,45,Tarrant
+Lakewood Village,600,37,Denton
+Lancaster,38800,17,Dallas
+Lantana,8000,35,Denton
+Lavon,2900,33,Collin
+Lewisville,104000,25,Denton
+Lincoln Park,300,42,Denton
+Lipan,500,86,Hood
+Little Elm,38300,36,Denton
+Lone Oak,600,62,Hunt
+Lowry Crossing,1800,38,Collin
+Lucas,6900,31,Collin
+Mabank,3300,54,Kaufman
+Mansfield,64300,35,Tarrant
+Maypearl,1000,40,Ellis
+McKinney,162900,33,Collin
+McLendon Chisholm,2200,29,Rockwall
+Melissa,7400,41,Collin
+Mesquite,144800,14,Dallas
+Midlothian,22300,25,Ellis
+Milford,700,49,Ellis
+Millsap,400,78,Parker
+Mobile City,200,26,Rockwall
+Murphy,20600,26,Collin
+Nevada,1000,36,Collin
+New Fairview,1300,51,Wise
+New Hope,600,38,Collin
+Newark,1100,49,"Tarrant, Wise"
+Neylandville,100,59,Hunt
+North Richland Hills,69200,28,Tarrant
+Northlake,2200,46,Denton
+Oak Grove,700,37,Kaufman
+Oak Leaf,1400,21,Ellis
+Oak Point,3300,40,Denton
+Oak Ridge,600,36,Kaufman
+Ovilla,3900,22,"Dallas, Ellis"
+Palmer,2100,27,Ellis
+Pantego,2500,25,Tarrant
+Paradise,500,67,Wise
+Parker,4400,27,Collin
+Pelican Bay,1600,54,Tarrant
+Plano,283600,20,Collin
+Ponder,1500,49,Denton
+Post Oak Bend City,700,36,Kaufman
+Princeton,8900,42,Collin
+Prosper,16000,36,Collin
+Providence Village,5800,43,Denton
+Quinlan,1400,42,Hunt
+Red Oak,12000,18,Ellis
+Reno,2700,110,Parker
+Rhome,1600,51,Wise
+Richardson,110800,15,Dallas
+Richland Hills,8100,30,Tarrant
+Rio Vista,900,58,Johnson
+River Oaks,7700,38,Tarrant
+Roanoke,7400,33,Denton
+Rockwall,42600,25,Rockwall
+Rosser,400,41,Kaufman
+Rowlett,60200,20,Dallas
+Royse City,11500,32,Rockwall
+Runaway Bay,1400,85,Wise
+Sachse,24600,26,Dallas
+Saginaw,22100,38,Tarrant
+Sanctuary,300,53,Parker
+Sanger,7700,52,Denton
+Sansom Park,4900,40,Tarrant
+Scurry,700,34,Kaufman
+Seagoville,15900,20,Dallas
+Shady Shores,2900,35,Denton
+Southlake,29900,26,Tarrant
+Springtown,2800,59,Parker
+St. Paul,1100,31,Collin
+Sunnyvale,6000,15,Dallas
+Talty,1900,28,Kaufman
+Terrell,17000,33,Kaufman
+The Colony,41800,28,Denton
+Tolar,800,78,Hood
+Trophy Club,11800,33,Denton
+Union Valley,300,38,Hunt
+University Park,24800,8,Dallas
+Venus,3300,32,"Johnson, Ellis"
+Watauga,24500,32,Tarrant
+Waxahachie,33400,30,Ellis
+Weatherford,28700,61,Parker
+West Tawokoni,1600,49,Hunt
+Westlake,1300,31,Tarrant
+Weston,300,46,Collin
+Westover Hills,700,38,Tarrant
+Westworth Village,2700,39,Tarrant
+White Settlement,17100,41,Tarrant
+Willow Park,4900,53,Parker
+Wilmer,3900,16,Dallas
+Wolfe City,1400,68,Hunt
+Wylie,46700,28,Collin
